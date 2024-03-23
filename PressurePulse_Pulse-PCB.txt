@@ -1,8 +1,8 @@
 Board Information Report
 Filename     : C:\Users\marka\Spring-2024\Senior-Design\ece_1896\electrical\PressurePulse_Pulse-PCB\PressurePulse_Pulse-PCB.PcbDoc
-Date         : 3/12/2024
-Time         : 11:59:00 AM
-Time Elapsed : 00:00:00
+Date         : 3/16/2024
+Time         : 2:09:58 PM
+Time Elapsed : 00:00:01
 
 General
     Board Size, 25mmx53.25mm
@@ -17,9 +17,9 @@ Routing Information
 count : 4
 
 Layer, Arcs, Pads, Vias, Tracks, Texts, Fills, Regions, ComponentBodies
-    Top Sig, 3, 270, 0, 947, 0, 0, 232, 0
+    Top Sig, 3, 270, 0, 948, 0, 0, 231, 0
     GND, 0, 0, 0, 0, 0, 0, 1, 0
-    PWR/Sig, 0, 0, 0, 103, 0, 0, 13, 0
+    PWR/Sig, 0, 0, 0, 80, 0, 0, 11, 0
     Bottom Sig, 0, 99, 0, 291, 0, 0, 90, 0
     Mechanical 1, 0, 0, 0, 0, 0, 0, 0, 92
     TFT, 4, 0, 0, 10, 0, 0, 0, 0
@@ -47,10 +47,10 @@ Drill Pairs, Vias
 count : 1
 
 Layer, Sq.In., Sq.MM., Percent of layer
-    Top Sig, 0.692, 446.165, 34%
-    GND, 1.783, 1150.166, 87%
-    PWR/Sig, 1.665, 1074.388, 81%
-    Bottom Sig, 0.515, 332.552, 25%
+    Top Sig, 0.692, 446.135, 34%
+    GND, 1.783, 1150.392, 87%
+    PWR/Sig, 1.656, 1068.113, 81%
+    Bottom Sig, 0.515, 332.529, 25%
 count : 4
 
 Non-Plated Hole Size, Pads, Vias
@@ -83,10 +83,10 @@ count : 0
 
 Top Layer Annular Ring Size, Count
     -3.4mm, 2
-    -1.4mm, 2
-    -1.2255mm, 4
-    -0.7mm, 2
-    -0.5335mm, 3
+    -2.451mm, 4
+    -2.1mm, 2
+    -1.067mm, 3
+    -0.9mm, 2
     0.2794mm, 176
     0.8mm, 4
     1.1mm, 2
@@ -94,10 +94,10 @@ count : 8
 
 Mid Layer Annular Ring Size, Count
     -3.4mm, 2
-    -1.4mm, 2
-    -1.2255mm, 4
-    -0.7mm, 2
-    -0.5335mm, 3
+    -2.451mm, 4
+    -2.1mm, 2
+    -1.067mm, 3
+    -0.9mm, 2
     0.2794mm, 176
     0.8mm, 4
     1.1mm, 2
@@ -105,10 +105,10 @@ count : 8
 
 Bottom Layer Annular Ring Size, Count
     -3.4mm, 2
-    -1.4mm, 2
-    -1.2255mm, 4
-    -0.7mm, 2
-    -0.5335mm, 3
+    -2.451mm, 4
+    -2.1mm, 2
+    -1.067mm, 3
+    -0.9mm, 2
     0.2794mm, 176
     0.8mm, 4
     1.1mm, 2
@@ -162,17 +162,17 @@ Track Width, Count
     0.05mm, 320
     0.1mm, 58
     0.127mm, 355
-    0.1524mm, 458
+    0.1524mm, 447
     0.1549mm, 11
     0.2mm, 36
     0.203mm, 10
     0.2032mm, 59
     0.25mm, 6
-    0.254mm, 281
+    0.254mm, 272
     0.2707mm, 28
     0.286mm, 7
     0.3mm, 5
-    0.406mm, 82
+    0.406mm, 80
     0.4064mm, 369
     0.6mm, 8
     0.61mm, 4
